@@ -25,6 +25,7 @@ Unordered
  + Facilisis in pretium nisl aliquet
  - Nulla volutpat aliquam velit
 + Very easy!
+
 Ordered
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
@@ -34,6 +35,7 @@ Ordered
 Start numbering with offset:
 57. foo
 1. bar
+
 ## Code
 Inline `code`
 Indented code
@@ -52,6 +54,7 @@ var foo = function (bar) {
 };
 console.log(foo(5));
 ```
+
 ## Tables
 | Option | Description |
 | ------ | ----------- |
@@ -64,6 +67,7 @@ Right aligned columns
 | data | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext | extension to be used for dest files. |
+
 ## Links
 [link text](http://dev.nodeca.com)
 [link with title](http://nodeca.github.io/pica/demo/ "title text!")
